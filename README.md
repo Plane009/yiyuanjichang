@@ -1,6 +1,6 @@
 # 一元机场官网：月均1元低价机场套餐
 
-一元机场官网入口：[点击查看月均 1 元机场套餐](https://aff.kitdude.com/feiniao)
+一元机场官网入口：[点击查看月均 1 元机场套餐](https://aff.kitdude.com/feiniao?utm_source=github.com%2FPlane009%2Fyiyuanjichang&utm_content=article_inline)
 
 一元机场主打月均成本约 ¥1 的低价机场套餐。当前套餐年付 ¥12，每月提供 50 GB 流量；还可以选择 ¥20 两年付方案，折算每月约 ¥0.83。服务支持 Hysteria2 协议，节点覆盖美国、日本、新加坡和台湾，不限制设备数量与网速。
 
@@ -69,7 +69,7 @@
 
 ## 一元机场使用教程
 
-1. [进入一元机场套餐页面](https://aff.kitdude.com/feiniao)，先购买 ¥1 试用流量包。
+1. [进入一元机场套餐页面](https://aff.kitdude.com/feiniao?utm_source=github.com%2FPlane009%2Fyiyuanjichang&utm_content=article_inline)，先购买 ¥1 试用流量包。
 2. 阅读使用文档，安装支持 Hysteria2 协议的客户端。
 3. 在客户端或系统网络设置中开启 IPv6。
 4. 导入订阅并更新节点列表。
@@ -88,7 +88,7 @@
 
 ### 一元机场官网入口是什么？
 
-一元机场套餐入口为：[https://aff.kitdude.com/feiniao](https://aff.kitdude.com/feiniao)。
+一元机场套餐入口为：[https://aff.kitdude.com/feiniao](https://aff.kitdude.com/feiniao?utm_source=github.com%2FPlane009%2Fyiyuanjichang&utm_content=article_inline)。
 
 ### 一元机场真的只要一元吗？
 
@@ -116,4 +116,4 @@
 
 ## 进入一元机场官网
 
-[点击查看月均 1 元机场套餐和 ¥1 试用](https://aff.kitdude.com/feiniao)
+[点击查看月均 1 元机场套餐和 ¥1 试用](https://aff.kitdude.com/feiniao?utm_source=github.com%2FPlane009%2Fyiyuanjichang&utm_content=article_inline)
